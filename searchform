@@ -1,0 +1,7 @@
+<form action="">
+            <div class="mb-3">
+                <label class="form-label">Search for Movie:</label>
+                <input type="text" class="form-control" name="searchMovie">
+            </div>
+            <button type="submit" class="btn btn-primary">Search</button>
+</form>
